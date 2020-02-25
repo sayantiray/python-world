@@ -1,4 +1,4 @@
-# To read sales messages form container
+# Pull sales messages from container
 from time import sleep
 import json
 import sys
