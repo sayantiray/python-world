@@ -1,4 +1,4 @@
-# To read sales messages form text file
+# To read sales messages form container
 from time import sleep
 import json
 import sys
