@@ -1,0 +1,50 @@
+{ 'Tr_ID' : 1 ,'prod_type':'Apple', 'value_in_pence':10}
+{ 'Tr_ID' : 2 ,'prod_type':'Apple', 'value_in_pence':10}
+{ 'Tr_ID' : 3 ,'prod_type':'Apple', 'value_in_pence':10}
+{ 'Tr_ID' : 4 ,'prod_type':'Apple', 'value_in_pence':10}
+{ 'Tr_ID' : 5 ,'prod_type':'Apple', 'value_in_pence':10}
+{ 'Tr_ID' : 6 ,'prod_type':'Mango', 'value_in_pence':10}
+{ 'Tr_ID' : 7 ,'prod_type':'Mango', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 8 ,'prod_type':'Apple', 'value_in_pence':10}
+{ 'Tr_ID' : 9 ,'prod_type':'Mango', 'adjustment':'mul', 'value_in_pence': 20}
+{ 'Tr_ID' : 10 ,'prod_type':'Apple', 'value_in_pence':10, 'no_of_count': 20}
+{ 'Tr_ID' : 11 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 12 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 13 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 14 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 15 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 16 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 17 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 18 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 19 ,'prod_type':'Guava', 'adjustment':'sub', 'value_in_pence':5}
+{ 'Tr_ID' : 20 ,'prod_type':'Guava', 'adjustment':'sub', 'value_in_pence':4}
+{ 'Tr_ID' : 21 ,'prod_type':'Mango', 'value_in_pence':10}
+{ 'Tr_ID' : 22 ,'prod_type':'Apple', 'value_in_pence':10}
+{ 'Tr_ID' : 23 ,'prod_type':'Banana', 'value_in_pence':10}
+{ 'Tr_ID' : 24 ,'prod_type':'Apple', 'value_in_pence':10}
+{ 'Tr_ID' : 25 ,'prod_type':'Apple', 'adjustment':'mul', 'value_in_pence': 20}
+{ 'Tr_ID' : 26 ,'prod_type':'Mango', 'value_in_pence':10}
+{ 'Tr_ID' : 27 ,'prod_type':'Mango', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 28 ,'prod_type':'Apple', 'value_in_pence':10}
+{ 'Tr_ID' : 29 ,'prod_type':'Apple', 'adjustment':'mul', 'value_in_pence': 20}
+{ 'Tr_ID' : 30 ,'prod_type':'Apple', 'value_in_pence':10, 'no_of_count': 20}
+{ 'Tr_ID' : 31 ,'prod_type':'Kiwi', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 32 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 33 ,'prod_type':'Kiwi', 'value_in_pence':10}
+{ 'Tr_ID' : 34 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 35 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 36 ,'prod_type':'Guava', 'value_in_pence':10}
+{ 'Tr_ID' : 37 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 38 ,'prod_type':'Guava', 'value_in_pence':10}
+{ 'Tr_ID' : 39 ,'prod_type':'Kiwi', 'adjustment':'sub', 'value_in_pence':5}
+{ 'Tr_ID' : 40 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 41 ,'prod_type':'Apple', 'value_in_pence':10}
+{ 'Tr_ID' : 42 ,'prod_type':'Kiwi', 'value_in_pence':10}
+{ 'Tr_ID' : 43 ,'prod_type':'Mango', 'value_in_pence':10}
+{ 'Tr_ID' : 44 ,'prod_type':'Mango', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 45 ,'prod_type':'Apple', 'value_in_pence':10}
+{ 'Tr_ID' : 46 ,'prod_type':'Apple', 'value_in_pence':10, 'no_of_count': 20}
+{ 'Tr_ID' : 47 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 48 ,'prod_type':'Kiwi', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 49 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}
+{ 'Tr_ID' : 50 ,'prod_type':'Guava', 'value_in_pence':10, 'no_of_count':30}

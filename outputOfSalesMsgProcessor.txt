@@ -1,0 +1,44 @@
+=========Report detailing[every 10msgs] the number of sales of each product and their total value==========
+Product Type : Apple, Sale : 26, Total Value(Pence): 260
+Product Type : Mango, Sale : 31, Total Value(Pence): 6200
+=========Report detailing[every 10msgs] the number of sales of each product and their total value==========
+Product Type : Apple, Sale : 26, Total Value(Pence): 260
+Product Type : Mango, Sale : 31, Total Value(Pence): 6200
+Product Type : Guava, Sale : 240, Total Value(Pence): 240
+=========Report detailing[every 10msgs] the number of sales of each product and their total value==========
+Product Type : Apple, Sale : 49, Total Value(Pence): 112400
+Product Type : Mango, Sale : 63, Total Value(Pence): 6520
+Product Type : Guava, Sale : 240, Total Value(Pence): 240
+Product Type : Banana, Sale : 1, Total Value(Pence): 10
+=========Report detailing[every 10msgs] the number of sales of each product and their total value==========
+Product Type : Apple, Sale : 49, Total Value(Pence): 112400
+Product Type : Mango, Sale : 63, Total Value(Pence): 6520
+Product Type : Guava, Sale : 392, Total Value(Pence): 1760
+Product Type : Banana, Sale : 1, Total Value(Pence): 10
+Product Type : Kiwi, Sale : 31, Total Value(Pence): 155
+=========Report detailing[every 10msgs] the number of sales of each product and their total value==========
+Product Type : Apple, Sale : 71, Total Value(Pence): 112620
+Product Type : Mango, Sale : 94, Total Value(Pence): 6830
+Product Type : Guava, Sale : 482, Total Value(Pence): 2660
+Product Type : Banana, Sale : 1, Total Value(Pence): 10
+Product Type : Kiwi, Sale : 62, Total Value(Pence): 465
+==========================================
+REPORT DETAILING THE ADJUSTMENTS MESSAGES
+==========================================
+HANG ON--GENERATING ADJUSTMENTS REPORT
+{'Tr_ID': 9, 'prod_type': 'Mango', 'adjustment': 'mul', 'value_in_pence': 20}
+{'Tr_ID': 19, 'prod_type': 'Guava', 'adjustment': 'sub', 'value_in_pence': 5}
+{'Tr_ID': 20, 'prod_type': 'Guava', 'adjustment': 'sub', 'value_in_pence': 4}
+{'Tr_ID': 25, 'prod_type': 'Apple', 'adjustment': 'mul', 'value_in_pence': 20}
+{'Tr_ID': 29, 'prod_type': 'Apple', 'adjustment': 'mul', 'value_in_pence': 20}
+{'Tr_ID': 39, 'prod_type': 'Kiwi', 'adjustment': 'sub', 'value_in_pence': 5}
+Do you want to precess more messages ? ::[Y / N]
+Enter your choice :: n
+Do you want to exit the application ? ::[Y / N]
+Enter your choice :: n
+SLEEPING FOR 10 SECONDS
+Do you want to precess more messages ? ::[Y / N]
+Enter your choice :: y
+EOF - NO MORE MESSAGES
+
+Process finished with exit code 0
